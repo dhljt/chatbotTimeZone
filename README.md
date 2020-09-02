@@ -1,5 +1,5 @@
 # chatbotTimeZone
-Little chatbot creadted with Rasa and Python to get the Time Zone of any city
+Little chatbot creadted with Rasa and Python to get the Time Zone of cities
 
 Basically you can start like this in your CMD
 
